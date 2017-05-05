@@ -2,18 +2,22 @@
 
 OWWW is OpenWhisk Web Wizard. 
 
-Install:
-npm instal -g 
+Install:<br/>
+<code>npm instal -g</code><br/>
 
-Interactive CLI: 
-$owww
+Interactive CLI: <br/>
+<code>$owww</code><br/>
+and follow the instructions<br/>
 
 Traditional CLI (examples):<br/>
 Upload a local website<br/>
-$owww -a upload -p example/cat -w randomCat<br/>
+<code>$owww -a upload -p example/cat -w randomCat</code><br/>
 
 Delete a published website on OpenWhisk<br/>
-$owww -a delete -w randomCat<br/>
+<code>$owww -a delete -w randomCat</code><br/>
+
+Help<br/>
+<code>$owww -h</code>
 
 
 
