@@ -1,0 +1,23 @@
+body{
+	background-color: lightgrey;	
+}
+#container {
+	text-align: center;
+	margin-top: 50px;
+	font-family: monospace;	
+	color:black;
+}
+
+#heading {
+	font-size:18px;	
+	margin-top:20px;
+}
+
+#button {
+	font-size:12px;
+	cursor: pointer;
+	text-decoration: underline;
+}
+#button:hover{
+	text-decoration: none;
+}
